@@ -10,4 +10,4 @@ Download [Kitronik Move App](https://play.google.com/store/apps/details?id=com.k
 From the app select "Connect to microbit", then push the button "Scan for microbit", the previously paired microbit will appear in the list with the writing (BONDED): click on it. A smiling face will appear on the dot matrix display.  
 From the menu go to the gamepad and move the robot using directional arrows. Buttons make smiling/sad face and writes 'Ciao' and 'wow' on the dot-matrix display:  
 
-[![MAX7219sz PIC Lib Demo](https://img.youtube.com/vi/kOnjNWowHlk/maxresdefault.jpg)](https://www.youtube.com/watch?v=kOnjNWowHlk)  
+[![Kitronik:Move demo](https://img.youtube.com/vi/kOnjNWowHlk/maxresdefault.jpg)](https://www.youtube.com/watch?v=kOnjNWowHlk)  
